@@ -9,7 +9,7 @@ import { motion, AnimatePresence, useScroll, useTransform, useSpring } from 'fra
 
 // --- 样式常量 ---
 const COLORS = {
-  bg: 'bg-[#030303]',
+  bg: 'bg-[#030300]',
 };
 
 // --- 子组件: 导航栏 ---
